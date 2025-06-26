@@ -1,2 +1,2 @@
 # natas_walkthrough
-how i solved the web securoty ctf
+how i solved the web security ctf
